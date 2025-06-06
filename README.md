@@ -71,7 +71,7 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 
 ## 📥 Pobieranie
 Jeśli chcesz zagrać bez instalowania Pythona:
-👉 **[Kliknij tutaj, aby pobrać wersję .zip z grą (.exe)](https://github.com/KWN-KSL/Space-Invaders/releases/download/spaceinvaders-v1/SpaceInvaders.zip)** 
+👉 **[Kliknij tutaj, aby pobrać wersję .zip z grą (.exe)](https://github.com/KWN-KSL/Space-Invaders/releases/download/spaceinvaders-v1/SpaceInvaders.zip)**  
 (Wymagany system Windows, brak potrzeby instalacji)
 
 ## 🚀 Uruchamianie z kodu źródłowego

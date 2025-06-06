@@ -54,7 +54,7 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 - **Fala 3:** Boss (Mothership) + asteroidy
 
 ## 📸 Rozgrywka
-![Rozgrywka](README(NieDotyczyProjektu)/gra.png)
+![Rozgrywka](README(NieDotyczyProjektu)/rozgrywka.png)
 
 ## 👾 Boss i asteroidy
 ![Starcie z bossem](README(NieDotyczyProjektu)/boss.png)
@@ -75,8 +75,8 @@ Jeśli chcesz zagrać bez instalowania Pythona:
 (Wymagany system Windows, brak potrzeby instalacji)
 
 ## 🚀 Uruchamianie z kodu źródłowego
-1. Zainstaluj bibliotekę pygame:
-   pip install pygame
+Zainstaluj bibliotekę pygame:
+- pip install pygame
    
 ## 🧾 Licencja
 Projekt edukacyjny — brak komercyjnej licencji. Wykorzystywany w celach naukowych.

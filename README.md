@@ -23,10 +23,10 @@ Kewin Kisiel — 197866
 | 1–6    | Skróty w menu pauzy               |
 
 ## 🧭 Menu główne
-![Menu](Menu.png)
+![Menu](README(NieDotyczyProjektu)/menu.png)
 
 ## 📦 Tryby gry i funkcje
-![Wybór trudności](wybor_trudnosci.png)
+![Wybór trudności](README(NieDotyczyProjektu)/wybor_trudnosci.png)
 
 ## 🎯 Poziomy trudności
 W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza, prędkość i agresywność przeciwników oraz wytrzymałość bossa i asteroid:
@@ -57,7 +57,7 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 - **Fala 3:** Boss (Mothership) + asteroidy
 
 ## 👾 Boss i asteroidy
-![Starcie z bossem](boss.png)
+![Starcie z bossem](README(NieDotyczyProjektu)/boss.png)
 - Boss ma pasek życia, potrafi strzelać i wypuszcza asteroidy.  
 - Gracz może niszczyć zarówno bossa, jak i asteroidy.
 
@@ -70,7 +70,7 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 - Różne ścieżki dźwiękowe w zależności od stanu gry
 
 ## 📸 Rozgrywka
-![Rozgrywka](gra.png)
+![Rozgrywka](README(NieDotyczyProjektu)/gra.png)
 
 ## 📥 Pobieranie
 Jeśli chcesz zagrać bez instalowania Pythona:

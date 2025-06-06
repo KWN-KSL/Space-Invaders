@@ -56,6 +56,9 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 - **Fala 1–2:** klasyczni przeciwnicy  
 - **Fala 3:** Boss (Mothership) + asteroidy
 
+## 📸 Rozgrywka
+![Rozgrywka](README(NieDotyczyProjektu)/gra.png)
+
 ## 👾 Boss i asteroidy
 ![Starcie z bossem](README(NieDotyczyProjektu)/boss.png)
 - Boss ma pasek życia, potrafi strzelać i wypuszcza asteroidy.  
@@ -68,9 +71,6 @@ W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza
 ## 💥 Efekty
 - Animacje eksplozji i respawnu  
 - Różne ścieżki dźwiękowe w zależności od stanu gry
-
-## 📸 Rozgrywka
-![Rozgrywka](README(NieDotyczyProjektu)/gra.png)
 
 ## 📥 Pobieranie
 Jeśli chcesz zagrać bez instalowania Pythona:

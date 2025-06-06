@@ -23,12 +23,12 @@ Twoim celem jest przetrwanie i zdobycie jak największej liczby punktów. W osta
 ![Menu](README(NieDotyczyProjektu)/menu.png)
 
 ## 📦 Tryby gry i funkcje
-![Wybór trudności](README(NieDotyczyProjektu)/wybor_trudnosci.png)
+![Wybór trudności](README(NieDotyczyProjektu)/poziom_trudnosci.png)
 
 ## 🎯 Poziomy trudności
 W grze dostępne są trzy poziomy trudności, które wpływają na życie gracza, prędkość i agresywność przeciwników oraz wytrzymałość bossa i asteroid:
 ### 🟢 Łatwy
--3 życia
+- 3 życia
 - Najwolniejsi i najmniej agresywni przeciwnicy
 - Boss: 20 HP
 - Asteroidy: 2 HP

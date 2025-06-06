@@ -10,7 +10,7 @@ Kewin Kisiel — 197866
 
 ## 🛠️ Technologie
 - **Język:** Python 3  
-- **Biblioteki:** Pygame  
+- **Biblioteki:** Pygame (reszta to standardowe biblioteki Pythona)
 - **IDE:** Visual Studio Code
 
 ## 🕹️ Sterowanie

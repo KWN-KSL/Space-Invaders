@@ -5,9 +5,6 @@ Klasyczna gra zręcznościowa stworzona w Pythonie z użyciem biblioteki Pygame,
 W grze **Space Invaders** sterujesz statkiem kosmicznym, który porusza się po dolnej części ekranu i eliminuje fale nadlatujących przeciwników. Z każdym poziomem trudności przeciwnicy stają się szybszi i bardziej agresywni.
 Twoim celem jest przetrwanie i zdobycie jak największej liczby punktów. W ostatniej fali pojawia się **Boss — Mothership**, który wymaga wielu trafień i wypuszcza śmiercionośne asteroidy.
 
-## 🧠 Twórca projektu
-Kewin Kisiel — 197866  
-
 ## 🛠️ Technologie
 - **Język:** Python 3  
 - **Biblioteki:** Pygame (reszta to standardowe biblioteki Pythona)
